@@ -1,0 +1,35 @@
+.topGrid{
+    font-weight: bold;
+}
+
+.titleName{
+    color: #007db8 !important;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.appName{
+    color: #0063cc !important;
+    font-weight: bold;
+}
+.head{
+    height: fit-content;
+}
+
+.appGrid{
+    width: 210px;
+    place-items: center;
+}
+.envGrid{
+    width: 100px;
+}
+.highlight {
+    height: fit-content;
+}
+.dangerousVersion{
+    color: #ff0000 !important;
+    font-weight: bold;
+}
+.warningVersion{
+    color: #39e600 !important;
+    font-weight: bold;
+}

@@ -1,0 +1,32 @@
+.navbar {
+    width: 100%;
+    height: 8%;
+    background-color: #007db8;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+
+.menu-item{
+    text-align: center;
+}
+
+
+.menu-item-active button {
+    background-color: #00447c;
+}
+.menu-env{
+    width: 30%;
+    justify-items: auto;
+    text-align: center;
+}
+.gridContainer{
+    margin-left: 25%;
+    margin-top: 7%;
+}
+
+.menu-env-active {
+    width: 30%;
+    text-align: center; 
+    background-color: #00447c;
+}

@@ -1,0 +1,7 @@
+.menu {    
+    display: flex;
+    justify-content: space-between;
+    background-color: #006bbd;    
+}
+
+

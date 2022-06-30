@@ -1,0 +1,17 @@
+.basic-multi-select-groups {
+  padding: 1em 0em 0em 0em;
+  width: 2000%;
+}
+
+.basic-multi-select-status {
+  padding: 1em 0em;
+  width: 2000%;
+}
+
+.basic-filters {
+  display: flex;
+}
+.select-container {
+  display: flex;
+  width: 2000%;
+}

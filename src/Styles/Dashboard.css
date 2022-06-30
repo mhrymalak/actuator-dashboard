@@ -1,0 +1,19 @@
+
+.dashboard {
+    width: 50vw;    
+    margin: 0 auto;
+    margin-top: 7%;
+}
+.dashboardInfo{
+    width: fit-content;  
+    margin-top: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.navbar{
+    color:White;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 20px;
+    font-weight: bold;
+}

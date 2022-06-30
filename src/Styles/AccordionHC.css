@@ -1,0 +1,55 @@
+.status-div {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.status-icon {
+  flex: 1 0 auto;
+  text-align: left;
+  cursor: pointer;
+  font-size: 0.85em;
+}
+
+.specification {
+  display: block;
+}
+
+.offIcon {
+  fill: #ce1126;
+}
+
+.onIcon {
+  fill: #6ea204;
+  margin-left: 5px;
+}
+
+.status {
+  text-align: center;
+  display: inline;
+}
+
+.feature-icon {
+  width: 48px;
+  height: 48px;
+}
+
+.rabbit-icon {
+  margin-top: 10px;
+  width: 40px;
+  height: 40px;
+}
+
+.exclamation-mark-icon {
+  width: 40px;
+  height: 40px;
+  fill: rgb(238, 129, 27);
+}
+
+.exclamation-mark-icon:hover {
+  fill: red;
+}
+
+#accordion-S {
+  background-color: #666666 !important;
+}
